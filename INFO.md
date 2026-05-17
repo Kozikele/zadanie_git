@@ -9,3 +9,6 @@ Zadanie na zaliczenie z systemu kontroli wersji Git
 
 ## Repozytorium
 https://github.com/Kozikele/zadanie_git
+
+## Pliki ignorowane
+Plik sekret.txt jest ignorowany przez .gitignore.
