@@ -1,2 +1,3 @@
 def pomnoz(a, b):
-    return a * b
+    wynik = a * b
+    return wynik
